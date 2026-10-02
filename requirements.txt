@@ -1,0 +1,3 @@
+# O app usa apenas a biblioteca padrao do Python (tkinter incluso no Windows).
+# A dependencia abaixo e necessaria somente para gerar o executavel .exe.
+pyinstaller>=6.0

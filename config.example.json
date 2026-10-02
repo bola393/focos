@@ -1,0 +1,19 @@
+{
+  "focus_minutes": 25,
+  "break_minutes": 5,
+  "cycles": 4,
+  "exit_delay_seconds": 120,
+  "passphrase": "eu escolhi focar agora e aceito esperar para sair",
+  "auto_restart": true,
+  "block_sites": true,
+  "blocked_sites": [
+    "facebook.com", "www.facebook.com",
+    "instagram.com", "www.instagram.com",
+    "twitter.com", "x.com", "www.twitter.com",
+    "tiktok.com", "www.tiktok.com",
+    "youtube.com", "www.youtube.com",
+    "reddit.com", "www.reddit.com"
+  ],
+  "block_apps": false,
+  "blocked_apps": []
+}
